@@ -1,0 +1,7 @@
+name: data-science-for-biotech
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
